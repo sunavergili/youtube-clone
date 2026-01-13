@@ -10,8 +10,6 @@
 
 <h1>you tube clone</h1>
 
-<p>"The weather app uses JavaScript to show current weather information."</p>
-
 <p>"This user-friendly application is developed with react, tailwindscss, axios....."</p>
 
 ![](screen.gif)
